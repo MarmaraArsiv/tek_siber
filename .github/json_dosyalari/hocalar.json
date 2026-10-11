@@ -1,0 +1,271 @@
+{
+    "bolum_adi": "Hocalar",
+    "bolum_aciklamasi": "📚 Bu bölüm, Marmara Üniversitesi Teknoloji Fakültesi Siber Güvenlik Mühendisliği bölümündeki hocaların detaylı bilgilerini içerir. Hocaların adları, ofis bilgileri, araştırma sayfalarının bağlantıları ve verdikleri bazı dersler bu bölümde listelenmektedir. Hocaların puanlamaları tamamen subjektiftir ve 0-10 yıldız arasında yapılmıştır.",
+    "gruplar": [
+        {
+            "ad": "Profesörler",
+            "aciklama": ""
+        },
+        {
+            "ad": "Doçentler",
+            "aciklama": ""
+        },
+        {
+            "ad": "Doktor Öğretim Üyeleri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Öğretim Görevlileri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Araştırma Görevlileri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Diğer Bölümlerden Ders Veren Hocalar",
+            "aciklama": "Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) veren, başka bölümlerden gelen hocalar."
+        },
+        {
+            "ad": "Önceki Yıllarda Ders Veren Hocalar",
+            "aciklama": "Son iki akademik yılda bölümde dersi görünmeyen hocalar."
+        }
+    ],
+    "hocalar": [
+        {
+            "ad": "Öğr. Gör. Abdullah Emir Çil",
+            "kisaltma": "AEÇ",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Ayrık Matematik"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Abdulsamet Aktaş",
+            "kisaltma": "AA",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Bilgisayar Programlama 1"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Akay Nevcanoğlu",
+            "kisaltma": "AN",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ali Sarıkaş",
+            "kisaltma": "AS",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Algoritma ve Programlamaya Giriş",
+                "Mantık Devreleri"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Anıl Baş",
+            "kisaltma": "AB",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Teknik İngilizce 1"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu",
+            "kisaltma": "ACÇK",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Modern Biyolojiye Giriş"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Burcu Cındık",
+            "kisaltma": "BC",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Matematik 1",
+                "Matematik 2",
+                "Diferansiyel Denklemler"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Emrah Dikbıyık",
+            "kisaltma": "ED",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Algoritma ve Programlamaya Giriş"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Fatih Serdar Sayın",
+            "kisaltma": "FSS",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Elektronik Devrelere Giriş"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu",
+            "kisaltma": "IRS",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Kazım Yıldız",
+            "kisaltma": "KY",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Nesne Yönelimli Programlama"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan",
+            "kisaltma": "MK",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Neşe Özdemir",
+            "kisaltma": "NÖ",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Lineer Cebir"
+            ]
+        },
+        {
+            "ad": "Dr. Onur Tekel",
+            "kisaltma": "OT",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Mühendislik Ekonomisi"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Oya Ayhan Girit",
+            "kisaltma": "OAG",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Atatürk İlkeleri ve İnkılap Tarihi 1"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Önder Demir",
+            "kisaltma": "ÖD",
+            "grup": "Doçentler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Bilgisayar Bilimlerine Giriş",
+                "Siber Güvenliğin Temelleri"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Semanur Sarıçam",
+            "kisaltma": "SS",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Olasılık ve İstatistik"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Şahin Uyaver",
+            "kisaltma": "ŞU",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Fizik 1",
+                "Fizik 2"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Yahya Bozkurt",
+            "kisaltma": "YB",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği 1"
+            ]
+        }
+    ]
+}

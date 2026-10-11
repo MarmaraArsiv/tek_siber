@@ -1,0 +1,1216 @@
+{
+    "bolum_adi": "Dersler",
+    "bolum_aciklamasi": "📄 Bu bölümde, tüm dersler hakkında detaylı bilgiler ve kaynaklar bulunmaktadır. Öğrenciler bu bölümü kullanarak ders materyallerine ve içeriklerine ulaşabilirler.",
+    "secmeli_bolum_adi": "Seçmeli Dersler",
+    "secmeli_bolum_aciklamasi": "📌 Bu dersler belirli bir yıl/döneme sabit değildir, öğrenciler ilgili yarıyıllarda havuzdan seçer. Hangi dersin hangi dönemde açıldığı değişebilir. Etiketlenmemiş dersler her iki müfredatta da ortaktır.",
+    "katkida_bulun_metni": "Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!",
+    "dersler": [
+        {
+            "ad": "Algoritma ve Programlamaya Giriş",
+            "klasor": "1-1/Algoritma ve Programlamaya Giriş",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Emrah Dikbıyık"
+                        }
+                    ]
+                },
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Ali Sarıkaş"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Modern Biyolojiye Giriş",
+            "klasor": "1-1/Modern Biyolojiye Giriş",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu"
+                        }
+                    ]
+                },
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Fizik 1",
+            "klasor": "1-1/Fizik 1",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Prof. Dr. Şahin Uyaver"
+                        }
+                    ]
+                },
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Prof. Dr. Şahin Uyaver"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İş Sağlığı ve Güvenliği 1",
+            "klasor": "1-1/İş Sağlığı ve Güvenliği 1",
+            "tip": "Zorunlu",
+            "mufredat": "2026 Sonrası",
+            "mufredat_notu": "2026 öncesi müfredatta tek ders olarak \"İş Sağlığı ve Güvenliği\" adıyla 2. yarıyılda (1-2) yer alıyor.",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Prof. Dr. Yahya Bozkurt"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Matematik 1",
+            "klasor": "1-1/Matematik 1",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Burcu Cındık"
+                        }
+                    ]
+                },
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Burcu Cındık"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Lineer Cebir",
+            "klasor": "1-1/Lineer Cebir",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Neşe Özdemir"
+                        }
+                    ]
+                },
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Neşe Özdemir"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgisayar Bilimlerine Giriş",
+            "klasor": "1-1/Bilgisayar Bilimlerine Giriş",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Doç. Dr. Önder Demir"
+                        }
+                    ]
+                },
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Doç. Dr. Önder Demir"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Türk Dili 1",
+            "klasor": "1-1/Türk Dili 1",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan"
+                        }
+                    ]
+                },
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İngilizce 1",
+            "klasor": "1-1/İngilizce 1",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu"
+                        }
+                    ]
+                },
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Fizik 2",
+            "klasor": "1-2/Fizik 2",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Prof. Dr. Şahin Uyaver"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İş Sağlığı ve Güvenliği 2",
+            "klasor": "1-2/İş Sağlığı ve Güvenliği 2",
+            "tip": "Zorunlu",
+            "mufredat": "2026 Sonrası",
+            "mufredat_notu": "2026 öncesi müfredatta tek ders olarak \"İş Sağlığı ve Güvenliği\" adıyla 2. yarıyılda (1-2) yer alıyor.",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Matematik 2",
+            "klasor": "1-2/Matematik 2",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Burcu Cındık"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Siber Güvenlik İçin Programlama",
+            "klasor": "1-2/Siber Güvenlik İçin Programlama",
+            "tip": "Zorunlu",
+            "mufredat": "2026 Sonrası",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Elektronik Devreler",
+            "klasor": "1-2/Elektronik Devreler",
+            "tip": "Zorunlu",
+            "mufredat": "2026 Sonrası",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Siber Güvenliğin Temelleri",
+            "klasor": "1-2/Siber Güvenliğin Temelleri",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Doç. Dr. Önder Demir"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Mühendislik Ekonomisi",
+            "klasor": "1-2/Mühendislik Ekonomisi",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Onur Tekel"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Türk Dili 2",
+            "klasor": "1-2/Türk Dili 2",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İngilizce 2",
+            "klasor": "1-2/İngilizce 2",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgisayar Programlama 1",
+            "klasor": "1-2/Bilgisayar Programlama 1",
+            "tip": "Zorunlu",
+            "mufredat": "2026 Öncesi",
+            "mufredat_notu": "2026 sonrası müfredatta bu ders yok.",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Abdulsamet Aktaş"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Elektronik Devrelere Giriş",
+            "klasor": "1-2/Elektronik Devrelere Giriş",
+            "tip": "Zorunlu",
+            "mufredat": "2026 Öncesi",
+            "mufredat_notu": "2026 sonrası müfredatta bu ders yok.",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Fatih Serdar Sayın"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İş Sağlığı ve Güvenliği",
+            "klasor": "1-2/İş Sağlığı ve Güvenliği",
+            "tip": "Zorunlu",
+            "mufredat": "2026 Öncesi",
+            "mufredat_notu": "2026 sonrası müfredatta yerini \"İş Sağlığı ve Güvenliği 1\" ve \"İş Sağlığı ve Güvenliği 2\" almış.",
+            "akademisyenler": [
+                {
+                    "yil": "2025-2026",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Akay Nevcanoğlu"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Nesne Yönelimli Programlama",
+            "klasor": "2-1/Nesne Yönelimli Programlama",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Prof. Dr. Kazım Yıldız"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Mantık Devreleri",
+            "klasor": "2-1/Mantık Devreleri",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Ali Sarıkaş"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Olasılık ve İstatistik",
+            "klasor": "2-1/Olasılık ve İstatistik",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Semanur Sarıçam"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Diferansiyel Denklemler",
+            "klasor": "2-1/Diferansiyel Denklemler",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Burcu Cındık"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Ayrık Matematik",
+            "klasor": "2-1/Ayrık Matematik",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Öğr. Gör. Abdullah Emir Çil"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Teknik İngilizce 1",
+            "klasor": "2-1/Teknik İngilizce 1",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Anıl Baş"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgisayar Ağlarına Giriş",
+            "klasor": "2-2/Bilgisayar Ağlarına Giriş",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Veri Yapıları ve Algoritmalar",
+            "klasor": "2-2/Veri Yapıları ve Algoritmalar",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Mikroişlemciler",
+            "klasor": "2-2/Mikroişlemciler",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Sayısal Analiz",
+            "klasor": "2-2/Sayısal Analiz",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Kriptolojinin Temelleri",
+            "klasor": "2-2/Kriptolojinin Temelleri",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Teknik İngilizce 2",
+            "klasor": "2-2/Teknik İngilizce 2",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İşletim Sistemleri",
+            "klasor": "3-1/İşletim Sistemleri",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Algoritma Analizi ve Tasarımı",
+            "klasor": "3-1/Algoritma Analizi ve Tasarımı",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Staj 1",
+            "klasor": "3-1/Staj 1",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgisayar Güvenliği",
+            "klasor": "3-1/Bilgisayar Güvenliği",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Uygulamalı Kriptografi",
+            "klasor": "3-1/Uygulamalı Kriptografi",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgisayar Organizasyonu ve Mimarisi",
+            "klasor": "3-2/Bilgisayar Organizasyonu ve Mimarisi",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Güvenli Yazılım Geliştirme",
+            "klasor": "3-2/Güvenli Yazılım Geliştirme",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgisayar Ağ Güvenliği",
+            "klasor": "3-2/Bilgisayar Ağ Güvenliği",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgisayar Adli Bilimi",
+            "klasor": "3-2/Bilgisayar Adli Bilimi",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilimsel Araştırma ve Sunum Teknikleri",
+            "klasor": "3-2/Bilimsel Araştırma ve Sunum Teknikleri",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Atatürk İlkeleri ve İnkılap Tarihi 1",
+            "klasor": "4-1/Atatürk İlkeleri ve İnkılap Tarihi 1",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [
+                {
+                    "yil": "2026-2027",
+                    "hocalar": [
+                        {
+                            "ad": "Dr. Öğretim Üyesi Oya Ayhan Girit"
+                        }
+                    ]
+                }
+            ],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İş Hukuku ve Etiği",
+            "klasor": "4-1/İş Hukuku ve Etiği",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Staj 2",
+            "klasor": "4-1/Staj 2",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İş Yeri Eğitimi",
+            "klasor": "4-1/İş Yeri Eğitimi",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bitirme Projesi 1",
+            "klasor": "4-1/Bitirme Projesi 1",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Atatürk İlkeleri ve İnkılap Tarihi 2",
+            "klasor": "4-2/Atatürk İlkeleri ve İnkılap Tarihi 2",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bitirme Projesi 2",
+            "klasor": "4-2/Bitirme Projesi 2",
+            "tip": "Zorunlu",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Açık Kaynak Kodlu Yazılımlar",
+            "klasor": "Mesleki Seçmeli/Açık Kaynak Kodlu Yazılımlar",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Akademik Yazının Temelleri",
+            "klasor": "Mesleki Seçmeli/Akademik Yazının Temelleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgi Güvenliği",
+            "klasor": "Mesleki Seçmeli/Bilgi Güvenliği",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgisayar Ağ Protokolleri",
+            "klasor": "Mesleki Seçmeli/Bilgisayar Ağ Protokolleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Biyometrik Sistemler ve Kimlik Doğrulama",
+            "klasor": "Mesleki Seçmeli/Biyometrik Sistemler ve Kimlik Doğrulama",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Blockchain Programlamaya Giriş",
+            "klasor": "Mesleki Seçmeli/Blockchain Programlamaya Giriş",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bulut Bilişim Güvenliği",
+            "klasor": "Mesleki Seçmeli/Bulut Bilişim Güvenliği",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Gömülü Sistemlerde Güvenlik",
+            "klasor": "Mesleki Seçmeli/Gömülü Sistemlerde Güvenlik",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Görüntü İşlemenin Temelleri",
+            "klasor": "Mesleki Seçmeli/Görüntü İşlemenin Temelleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Güncel Yapay Zeka Yaklaşımları",
+            "klasor": "Mesleki Seçmeli/Güncel Yapay Zeka Yaklaşımları",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Güvenlik Politikaları ve Yönetimi",
+            "klasor": "Mesleki Seçmeli/Güvenlik Politikaları ve Yönetimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İnsan-Bilgisayar Etkileşimi ve Görsellik",
+            "klasor": "Mesleki Seçmeli/İnsan-Bilgisayar Etkileşimi ve Görsellik",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Kablosuz Ağlarda Güvenlik",
+            "klasor": "Mesleki Seçmeli/Kablosuz Ağlarda Güvenlik",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Kritik Altyapı Güvenliği",
+            "klasor": "Mesleki Seçmeli/Kritik Altyapı Güvenliği",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Linux Kabuk Programlama",
+            "klasor": "Mesleki Seçmeli/Linux Kabuk Programlama",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Makine Öğrenimine Giriş",
+            "klasor": "Mesleki Seçmeli/Makine Öğrenimine Giriş",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Mobil Cihazlarda Güvenlik",
+            "klasor": "Mesleki Seçmeli/Mobil Cihazlarda Güvenlik",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Nesnelerin İnterneti ve Güvenlik",
+            "klasor": "Mesleki Seçmeli/Nesnelerin İnterneti ve Güvenlik",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Saldırı Tespit ve Önleme Sistemleri",
+            "klasor": "Mesleki Seçmeli/Saldırı Tespit ve Önleme Sistemleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Sızma Testleri ve Güvenlik Denetimleri",
+            "klasor": "Mesleki Seçmeli/Sızma Testleri ve Güvenlik Denetimleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Siber Hukuk ve Etik",
+            "klasor": "Mesleki Seçmeli/Siber Hukuk ve Etik",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Siber Saldırı ve Savunma Teknikleri",
+            "klasor": "Mesleki Seçmeli/Siber Saldırı ve Savunma Teknikleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Siber Savaş ve Güvenlik",
+            "klasor": "Mesleki Seçmeli/Siber Savaş ve Güvenlik",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Sinyaller ve Sistemler",
+            "klasor": "Mesleki Seçmeli/Sinyaller ve Sistemler",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Sistem ve Sunucu Yönetimi",
+            "klasor": "Mesleki Seçmeli/Sistem ve Sunucu Yönetimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Sistem Yazılımı Geliştirme",
+            "klasor": "Mesleki Seçmeli/Sistem Yazılımı Geliştirme",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Veri Bilimine Giriş",
+            "klasor": "Mesleki Seçmeli/Veri Bilimine Giriş",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Veri Kurtarma Teknikleri",
+            "klasor": "Mesleki Seçmeli/Veri Kurtarma Teknikleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Veritabanı Güvenliği",
+            "klasor": "Mesleki Seçmeli/Veritabanı Güvenliği",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Veritabanı Sistemleri",
+            "klasor": "Mesleki Seçmeli/Veritabanı Sistemleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Yazılım Mühendisliği",
+            "klasor": "Mesleki Seçmeli/Yazılım Mühendisliği",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Web Uygulama Güvenliği",
+            "klasor": "Mesleki Seçmeli/Web Uygulama Güvenliği",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Araştırma Planlama ve Yönetimi",
+            "klasor": "Fakülte Teknik Seçmeli/Araştırma Planlama ve Yönetimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilgi Sistemleri Yönetimi",
+            "klasor": "Fakülte Teknik Seçmeli/Bilgi Sistemleri Yönetimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Çok Disiplinli Takım Çalışması Deneyimi",
+            "klasor": "Fakülte Teknik Seçmeli/Çok Disiplinli Takım Çalışması Deneyimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Disiplinler Arası Proje Tasarımı",
+            "klasor": "Fakülte Teknik Seçmeli/Disiplinler Arası Proje Tasarımı",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Mühendisler için Proje Yönetimi",
+            "klasor": "Fakülte Teknik Seçmeli/Mühendisler için Proje Yönetimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Mühendislik ve Teknoloji Yönetimi",
+            "klasor": "Fakülte Teknik Seçmeli/Mühendislik ve Teknoloji Yönetimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Veri Bilimi ve Veri Analitiğine Giriş",
+            "klasor": "Fakülte Teknik Seçmeli/Veri Bilimi ve Veri Analitiğine Giriş",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Yazılım Proje Yönetimi",
+            "klasor": "Fakülte Teknik Seçmeli/Yazılım Proje Yönetimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Bilim Tarihi",
+            "klasor": "Üniversite Seçmeli/Bilim Tarihi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Çevre ve Enerji",
+            "klasor": "Üniversite Seçmeli/Çevre ve Enerji",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Fizibilite Hazırlama ve Uygulamaları",
+            "klasor": "Üniversite Seçmeli/Fizibilite Hazırlama ve Uygulamaları",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Girişimcilik",
+            "klasor": "Üniversite Seçmeli/Girişimcilik",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Girişimcilik ve İnovasyon",
+            "klasor": "Üniversite Seçmeli/Girişimcilik ve İnovasyon",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "İş Psikolojisi",
+            "klasor": "Üniversite Seçmeli/İş Psikolojisi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Kalite Yönetimi",
+            "klasor": "Üniversite Seçmeli/Kalite Yönetimi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Osmanlı Tarihi",
+            "klasor": "Üniversite Seçmeli/Osmanlı Tarihi",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Rapor Hazırlama ve Sunum Teknikleri",
+            "klasor": "Üniversite Seçmeli/Rapor Hazırlama ve Sunum Teknikleri",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Sosyal Organizasyon",
+            "klasor": "Üniversite Seçmeli/Sosyal Organizasyon",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Teknik İletişim",
+            "klasor": "Üniversite Seçmeli/Teknik İletişim",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        },
+        {
+            "ad": "Teknik Satış ve Pazarlama",
+            "klasor": "Üniversite Seçmeli/Teknik Satış ve Pazarlama",
+            "tip": "Seçmeli",
+            "mufredat": "Her İki Müfredat",
+            "mufredat_notu": "",
+            "akademisyenler": [],
+            "derse_dair_oneriler": []
+        }
+    ]
+}
