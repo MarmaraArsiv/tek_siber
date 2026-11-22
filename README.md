@@ -103,17 +103,17 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 ## 📊 Arşiv Doluluk Durumu
 
-Arşivdeki **102** dersin **0** tanesinde en az bir materyal var (genel doluluk **%0**).
+Arşivdeki **102** dersin **1** tanesinde en az bir materyal var (genel doluluk **%1**).
 
 ```mermaid
 pie showData
-  "Materyali olan" : 0
-  "Henüz boş" : 102
+  "Materyali olan" : 1
+  "Henüz boş" : 101
 ```
 
 | Dönem | Doluluk | Materyali olan ders |
 |---|---|---|
-| [1. Yıl Güz](./1-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 9 |
+| [1. Yıl Güz](./1-1/) | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ %11 | 1 / 9 |
 | [1. Yıl Bahar](./1-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 12 |
 | [2. Yıl Güz](./2-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 6 |
 | [2. Yıl Bahar](./2-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 6 |
@@ -128,7 +128,7 @@ pie showData
 ### 🙋 Bu dersler katkını bekliyor
 Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölümüne göz at.
 
-- **1. Yıl Güz:** Algoritma ve Programlamaya Giriş, Bilgisayar Bilimlerine Giriş, Fizik 1, İngilizce 1, İş Sağlığı ve Güvenliği 1, Lineer Cebir, Matematik 1, Modern Biyolojiye Giriş, Türk Dili 1
+- **1. Yıl Güz:** Algoritma ve Programlamaya Giriş, Bilgisayar Bilimlerine Giriş, İngilizce 1, İş Sağlığı ve Güvenliği 1, Lineer Cebir, Matematik 1, Modern Biyolojiye Giriş, Türk Dili 1
 - **1. Yıl Bahar:** Bilgisayar Programlama 1, Elektronik Devreler, Elektronik Devrelere Giriş, Fizik 2, İngilizce 2, İş Sağlığı ve Güvenliği, İş Sağlığı ve Güvenliği 2, Matematik 2, Mühendislik Ekonomisi, Siber Güvenliğin Temelleri, Siber Güvenlik İçin Programlama, Türk Dili 2
 - **2. Yıl Güz:** Ayrık Matematik, Diferansiyel Denklemler, Mantık Devreleri, Nesne Yönelimli Programlama, Olasılık ve İstatistik, Teknik İngilizce 1
 - **2. Yıl Bahar:** Bilgisayar Ağlarına Giriş, Kriptolojinin Temelleri, Mikroişlemciler, Sayısal Analiz, Teknik İngilizce 2, Veri Yapıları ve Algoritmalar
@@ -1422,6 +1422,9 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 <h2 align='center'>🤝 Katkıda Bulunanlar</h2>
 
 Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Pull request ile katkıda bulunanlar bu listeye otomatik olarak eklenir. Nasıl katkıda bulunabileceğini README'nin başındaki **🤝 Katkıda Bulunun** bölümünde ve [CONTRIBUTING.md](CONTRIBUTING.md) dosyasında bulabilirsin. Burada isminin yer alması için bölüm dersleriyle alakalı, elle tutulur bir katkı yapman beklenir. 📝 README.md dosyaları otomatik olarak oluşturulduğu için README hatalarını doğrudan düzeltmek yerine bize bildirmen yeterli.
+
+<p align='center'><a href='https://github.com/yldzemin'><img src='https://github.com/yldzemin.png?size=80' width='40' alt='Mehmet Emin'></a></p>
+<h6 align='center'> <b><i>Mehmet Emin</i></b> <br><sub><a href='https://github.com/yldzemin'>GitHub</a> &nbsp;·&nbsp; <a href='https://www.linkedin.com/in/mehmet-emin-yildizz/'>LinkedIn</a></sub></h6>
 
 </details>
 
